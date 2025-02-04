@@ -1,0 +1,5 @@
+autogen-agentchat 
+autogen-ext[magentic-one,openai]
+azure-identity
+python-dotenv
+colorama
